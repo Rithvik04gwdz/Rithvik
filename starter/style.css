@@ -1,5 +1,5 @@
 body {
-    background: #fff;
+    background: #FAF7F2;
     font-family: sans-serif;
     text-align: center;
     margin: 0;
@@ -9,6 +9,7 @@ body {
 #name {
     font-size: 48px;
     font-weight: bold;
+    color:#3B3029;
 }
 
 #info-btn {
